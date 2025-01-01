@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Earning Robux on RoFinity.app🤑"];
+const statusMessages = ["Earning Robux on RoFinity🤑"];
 
 
 let currentIndex = 0;
